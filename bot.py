@@ -2,7 +2,7 @@
 #import redis
 import os
 
-bot = telebot.TeleBot("1037818728:AAEQ5tCvu6ssVjBzxzLtW9JqVmPw7x4XXbo")do
+bot = telegram.Bot("1037818728:AAEQ5tCvu6ssVjBzxzLtW9JqVmPw7x4XXbo")do
 
 import numpy as np
 import random
